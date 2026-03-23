@@ -1,0 +1,33 @@
+body{
+  background-color: #c3291c;
+}
+
+.main-body{
+  color: #c3291c;
+  background-color: #fff7d2;
+  width: 75%;
+  margin: auto;    
+}
+
+.uvodni-fotka{
+  width: 100%;
+}
+
+.text{
+  padding: min(10em, 8%)   ;
+ 
+}
+
+p{
+ font-family: 'Courier New', Courier, monospace;
+ font-size: 1.5rem;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.mapa{
+  height: 40dvh;
+  width: 100%;
+}
